@@ -14,9 +14,9 @@
 <p align="center">
   <b>Good luck!</b>
 </p>
+
   
  <p align="center">
-  <img src="https://github.com/iremSaral/labyrinthGameInConsole/assets/92708146/65b44d4e-f71b-4d5b-988f-a3bd51466abd" alt="Game GIF">
+  <img src="https://github.com/iremSaral/labyrinthGameInConsole/assets/92708146/6fcb0fb1-ffd4-4e35-b74e-3a1866a3e883" alt="Game GIF">
 </p>
-
 
